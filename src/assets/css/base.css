@@ -1,0 +1,6 @@
+.table.table-bordered td .form-control {
+  height: 30px;
+  font-size: 15px;
+  color: #495057;
+  border-radius: 0 !important;
+}
